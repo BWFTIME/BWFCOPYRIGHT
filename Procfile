@@ -1,0 +1,1 @@
+Asur: python -m BWFCOPYRIGHT

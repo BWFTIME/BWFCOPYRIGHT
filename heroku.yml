@@ -1,0 +1,5 @@
+build:
+  docker:
+    worker: Dockerfile
+run:
+  Asur: python3 -m BWFCOPYRIGHT
